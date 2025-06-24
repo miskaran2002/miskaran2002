@@ -18,9 +18,9 @@ Hi! I'm a **Computer Science & Engineering** student at the **University of Bari
 🛠️ Currently working on several full-stack web apps & learning advanced technologies.
 
 ### 🔍 Current Focus:
-- 🚦 Adaptive Traffic Signal Control System for Urban Congestion
-- 🍲 Full-stack Recipe App: **Recipe Realm**
-- 🧮 Developed **BranchAndBound** Algorithm for optimization
+- 🚦 Adaptive Traffic Signal Control System for Urban Congestion  
+- 🍲 Full-stack Recipe App: **Recipe Realm**  
+- 🧮 Developed **BranchAndBound** Algorithm for optimization  
 - 🌐 Exploring **Next.js**, **TypeScript**, and **GraphQL**
 
 ---
@@ -39,13 +39,13 @@ Hi! I'm a **Computer Science & Engineering** student at the **University of Bari
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-raihan-uddin-70a5b5292/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/miskatujjaman.raihan" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:miskatujjamanraihan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -59,9 +59,8 @@ Hi! I'm a **Computer Science & Engineering** student at the **University of Bari
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miskaran2002" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miskaran2002&theme=radical" alt="GitHub Streak" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miskaran2002&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -72,11 +71,3 @@ Hi! I'm a **Computer Science & Engineering** student at the **University of Bari
 <p align="center">
   ❤️ Thanks for visiting my GitHub Profile!
 </p>
-
-
-
-
-
-
-
-
