@@ -39,6 +39,15 @@ Hi! I'm a **Computer Science & Engineering** student at the **University of Bari
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miskaran2002&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miskaran2002&layout=compact&theme=tokyonight&count_private=true)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=miskaran2002&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+
+
 <!-- Social Links -->
 ## 🌐 Connect With Me
 
