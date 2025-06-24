@@ -67,6 +67,11 @@ Hi! I'm a **Computer Science & Engineering** student at the **University of Bari
 </p>
 
 ---
+## 📫 How to reach me
+
+I'm always open to discussing new projects, collaborations, or opportunities!  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/md-raihan-uddin-70a5b5292/) or send me an email at miskatujjamanraihan@gmail.com.
+
 
 <p align="center">
   ❤️ Thanks for visiting my GitHub Profile!
