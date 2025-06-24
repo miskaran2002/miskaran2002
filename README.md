@@ -25,6 +25,11 @@ Hi! I'm a **Computer Science & Engineering** student at the **University of Bari
 
 ---
 
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=miskaran2002&style=flat-square&color=blue)
+
+
 <!-- Skills Section -->
 ## 🛠️ Skills & Tools
 
@@ -66,11 +71,14 @@ Hi! I'm a **Computer Science & Engineering** student at the **University of Bari
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miskaran2002&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
+
 ## 📫 How to reach me
 
 I'm always open to discussing new projects, collaborations, or opportunities!  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/md-raihan-uddin-70a5b5292/) or send me an email at miskatujjamanraihan@gmail.com.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/md-raihan-uddin-70a5b5292/) or send me an email at raihanuddin.cse8@gmail.com.
+
+---
+
 
 
 <p align="center">
