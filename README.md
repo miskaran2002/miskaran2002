@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/jkTQf3DZ/Chat-GPT-Image-Jun-24-2025-12-05-30-PM.png" alt="Md Raihan Uddin Banner" width="100%" />
+  <img src="https://i.ibb.co/93Htf93f/Screenshot-2025-06-24-124608.png" alt="Md Raihan Uddin Banner" width="100%" />
 </p>
 
 <!-- Name and Designation -->
