@@ -1,51 +1,79 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/jkTQf3DZ/Chat-GPT-Image-Jun-24-2025-12-05-30-PM.png" alt="Md Raihan Uddin Banner" width="100%" />
 </p>
 
 <!-- Name and Designation -->
 <h1 align="center">Hi there, I'm Md Raihan Uddin 👋</h1>
-<h3 align="center">A Passionate Web Developer & CSE Student from Bangladesh 🇧🇩</h3>
+<h3 align="center">A Passionate Web Developer & Computer Science Student at University of Barisal 🇧🇩</h3>
+
+---
 
 <!-- About Me -->
 ## 🧑‍💻 About Me
 
-Hey! I'm a computer science student at the University of Barisal who loves solving real-life problems using **Mathematics** and **Technology**.  
-Currently, I'm working on multiple web-based projects and always exploring new frameworks and tools to stay updated!
+Hi! I'm a **Computer Science & Engineering** student at the **University of Barisal** who enjoys solving real-life problems using **Mathematics**, **Technology**, and **Code**.
 
-- 🔭 I’m currently working on: **Recipe Realm** - a full-stack recipe app  
-- 🌱 Exploring: **Next.js**, **TypeScript**, and **GraphQL**  
-- 📚 I enjoy learning about **Microprocessor Architecture**, **DSA**, and **Full-stack Development**  
-- 🚀 I love building real-world projects and deploying them using **Firebase**, **Vercel**, or **Render**
+💡 I’m passionate about continuous learning and creative problem solving.  
+🛠️ Currently working on several full-stack web apps & learning advanced technologies.
+
+### 🔍 Current Focus:
+- 🚦 Adaptive Traffic Signal Control System for Urban Congestion
+- 🍲 Full-stack Recipe App: **Recipe Realm**
+- 🧮 Developed **BranchAndBound** Algorithm for optimization
+- 🌐 Exploring **Next.js**, **TypeScript**, and **GraphQL**
+
+---
 
 <!-- Skills Section -->
 ## 🛠️ Skills & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,tailwind,vscode,figma,postman" />
 </p>
+
+---
 
 <!-- Social Links -->
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdraihanuddin)  
-[![Facebook](https://www.facebook.com/miskatujjaman.raihan)  
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)  
-[![Website](https://img.shields.io/badge/-My%20Website-000000?style=for-the-badge&logo=github&logoColor=white)](https://your-website.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-raihan-uddin-70a5b5292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/miskatujjaman.raihan" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:miskatujjamanraihan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miskaran2002&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miskaran2002&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miskaran2002&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
-</p>
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  ❤️ Thanks for visiting my GitHub Profile!
 </p>
+
+
+
+
+
+
 
 
