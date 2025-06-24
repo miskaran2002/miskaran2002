@@ -59,7 +59,7 @@ Hi! I'm a **Computer Science & Engineering** student at the **University of Bari
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miskaran2002&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miskaran2002)" alt="GitHub Streak" />
 </p>
 
 <p align="center">
