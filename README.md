@@ -12,7 +12,13 @@
 <!-- About Me -->
 ## 🧑‍💻 About Me
 
-Hi! I'm a **Computer Science & Engineering** student at the **University of Barisal** who enjoys solving real-life problems using **Mathematics**, **Technology**, and **Code**.
+Hi! I'm a Computer Science & Engineering student at the University of Barisal, driven by a deep curiosity to understand how things work and how they can be improved. I love solving real-life problems by blending the power of Mathematics, Technology, and Code to create efficient and impactful solutions.
+
+My academic journey has helped me build a strong foundation in computer science, while personal projects and hands-on experience have taught me how to think critically, debug with patience, and continuously learn. Whether it's developing full-stack web applications, optimizing algorithms, or exploring the beauty of mathematical logic, I genuinely enjoy the creative process behind solving complex problems.
+
+I'm always eager to collaborate on innovative projects, contribute to open-source, and grow as a developer. In the future, I aim to work in a leading tech company where I can make meaningful contributions while continuing to learn from the best in the industry.
+
+Let’s connect and build something awesome together!
 
 💡 I’m passionate about continuous learning and creative problem solving.  
 🛠️ Currently working on several full-stack web apps & learning advanced technologies.
