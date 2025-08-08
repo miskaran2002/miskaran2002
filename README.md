@@ -12,9 +12,11 @@
 <!-- About Me -->
 ## 🧑‍💻 About Me
 
-Hi! I'm a Computer Science & Engineering student at the University of Barisal, driven by a deep curiosity to understand how things work and how they can be improved. I love solving real-life problems by blending the power of Mathematics, Technology, and Code to create efficient and impactful solutions.
+Hi! I'm **Raihan uddin** a **Computer Science & Engineering student** at the **University of Barisal**. I enjoy solving real-life problems using mathematics, technology, and code.
 
-My academic journey has helped me build a strong foundation in computer science, while personal projects and hands-on experience have taught me how to think critically, debug with patience, and continuously learn. Whether it's developing full-stack web applications, optimizing algorithms, or exploring the beauty of mathematical logic, I genuinely enjoy the creative process behind solving complex problems.
+My academic journey has helped me build a strong foundation in computer science, while personal projects and hands-on experience have taught me how to think critically, debug with patience, and continuously learn. Whether it's developing full-stack web applications, optimizing algorithms, or exploring the beauty of mathematical logic, I genuinely enjoy the creative process behind solving complex problems.I'm passionate about building useful and creative software. I like working on full-stack web development projects, learning new tools, and improving my problem-solving skills. I'm always curious and open to new ideas.
+
+My goal is to join a tech company where I can grow as a developer, work with smart people, and build things that make a difference.
 
 I'm always eager to collaborate on innovative projects, contribute to open-source, and grow as a developer. In the future, I aim to work in a leading tech company where I can make meaningful contributions while continuing to learn from the best in the industry.
 
