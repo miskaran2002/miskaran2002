@@ -18,6 +18,7 @@ Hi! I'm a **Computer Science & Engineering** student at the **University of Bari
 🛠️ Currently working on several full-stack web apps & learning advanced technologies.
 
 ### 🔍 Current Focus:
+
 - 🚦 Adaptive Traffic Signal Control System for Urban Congestion  
 - 🍲 Full-stack Recipe App: **Recipe Realm**  
 - 🧮 Developed **BranchAndBound** Algorithm for optimization  
