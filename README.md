@@ -64,7 +64,7 @@ Let’s connect and build something awesome together!
   <a href="https://www.facebook.com/miskatujjaman.raihan" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:miskatujjamanraihan@gmail.com" target="_blank">
+  <a href="mrayhan21.cse@bu.ac.bd" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
