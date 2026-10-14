@@ -35,7 +35,7 @@ Let’s connect and build something awesome together!
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miskaran2002&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/miskaran2002.svg?label=Profile%20views&color=0e75b6" alt="Profile Views" />
 </p>
 
 ## 🎓 Academic Highlights & Research Interests
