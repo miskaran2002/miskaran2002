@@ -68,7 +68,11 @@ Let’s connect and build something awesome together!
 
 ![GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=miskaran2002&theme=github)
 
-
+<p align="left">
+  <a href="[YOUR_GOOGLE_DRIVE_OR_PDF_LINK](https://drive.google.com/file/d/1YuQl_pWqQAgotpM3h7f-FT8XXH-UTtEa/view?usp=sharing)" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
 <!-- Social Links -->
 ## 🌐 Connect With Me
