@@ -38,6 +38,13 @@ Let’s connect and build something awesome together!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=miskaran2002&style=flat-square&color=blue)
 
+## 🎓 Academic Highlights & Research Interests
+
+- **B.Sc. in Computer Science & Engineering**, University of Barisal 
+- **Research Focus:** Bioinformatics (Non-negative Matrix Factorization for Single-Cell RNA Sequencing)
+- **Advanced Coursework:** Compiler Design, Probabilistic Robotics (Occupancy Grid Mapping), Computer Graphics (OpenGL)
+- **Bootcamp:** Enrolled in Next Level AI-Driven Software Engineering Bootcamp
+
 
 ## 🚀 Featured Projects
 
