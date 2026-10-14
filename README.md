@@ -69,7 +69,7 @@ Let’s connect and build something awesome together!
 ![GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=miskaran2002&theme=github)
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1YuQl_pWqQAgotpM3h7f-FT8XXH-UTTEa/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1YuQl_pWqQAgotpM3h7f-FT8XXH-UTtEa/view" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
