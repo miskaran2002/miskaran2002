@@ -39,6 +39,15 @@ Let’s connect and build something awesome together!
 ![Profile Views](https://komarev.com/ghpvc/?username=miskaran2002&style=flat-square&color=blue)
 
 
+## 🚀 Featured Projects
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[RentNest](https://rent-nest-fronted.vercel.app/)** | A modern property rental platform featuring interactive property browsing, secure authentication, and Stripe payment integration. | React, Node.js, Express, PostgreSQL, Prisma ORM |
+| **[Smart City Platform](https://city-complaint-frontend-mu.vercel.app/)** | Backend system architecture and API for managing urban complaints and service requests. | Node.js, Express, PostgreSQL |
+| **[Recipe Realm](https://recipe-realm-4ea1f.web.app/)** | Full-stack recipe application for discovering and managing culinary creations. | React, Node.js, Express, MongoDB |
+
+
 <!-- Skills Section -->
 ## 🛠️ Skills & Tools
 
