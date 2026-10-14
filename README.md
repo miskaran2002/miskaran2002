@@ -74,6 +74,12 @@ Let’s connect and build something awesome together!
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=miskaran2002&theme=tokyonight&margin-w=15&margin-h=15&column=7" alt="miskaran2002 trophies" />
+  </a>
+</p>
+
 <!-- Social Links -->
 ## 🌐 Connect With Me
 
